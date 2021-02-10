@@ -1,0 +1,141 @@
+body {
+    color: #090909;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+    background-size: cover;
+    background-image: url(background.jpg);
+    background-color: #0014FF;
+  }
+
+#container{
+	width: 768px;
+	height:auto;
+	background-color:white;
+	margin:auto;
+	
+	
+}
+img {
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.floatleft{ 
+float:left
+}
+
+aside {
+    width: 150px;
+    height: 1620px;
+    background-color: #000CA0;
+    float: left;
+}
+
+
+
+header{
+    width: 768px;
+    height: 250px;
+    background-image: url(archive_header.jpg);		
+}
+
+main{
+    width: 598px;
+    height: 1600px;
+    background-color: blue;
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+	
+}
+article {
+    margin-top: 30px;
+}
+
+
+Footer{
+    width: 768px;
+    height: 50px;
+    clear: both;
+    background-color: #0000FF;
+		
+}
+h1 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FAE19B;
+	font-family: vaccine,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#container nav li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    width: 200px;
+    margin-right: 40px;
+	font_family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+#container nav ul {
+    margin: auto;
+    width: 300px;
+}
+
+p {
+	font-family: effra,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+nav {
+    width: 768px;
+a:link {
+    color: #5CC5D2;
+}
+a:visited {
+    color: #5B2A79;
+}
+a:hover {
+    color: #FAFAFA;
+}
+a:active {
+    color: #111111;
+}    height: 50px;
+a:link {
+    color: #66ACC9;
+    text-decoration: none;
+}
+a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: #5C2D79;
+}
+a:active {
+    text-decoration: none;
+    color: #090909;
+}}
+#container nav li {
+    width: 0;
+}
+.submit_btn {
+    width: 170px;
+    height: 30px;
+    border-radius: 10;
+    background-color: #FFC653;
+    -webkit-box-shadow: 6px 6px 35px 1px;
+    box-shadow: 6px 6px 35px 1px;
+}
+
+
+.submt_btn:hover{
+	    -webkit-box-shadow: 6px 6px 35px 1px;
+    box-shadow: 6px 6px 35px 1px;
+	
+}
